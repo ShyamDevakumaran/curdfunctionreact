@@ -1,0 +1,29 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    background-color: #c49749;
+}
+h1{
+    text-align: center;
+    color: #fff;
+}
+
+
+.container{
+    background-color: #c49749 ;
+    color: #fff;
+}
+.flex-rwo{
+    color: #fff;
+}
+.flex-column{
+    color: #fff;
+}
+
+.table{
+    color: #fff;
+}
+
+.flex-large h3{
+    color: #fff;
+}
